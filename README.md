@@ -1,14 +1,4 @@
-# <p align="center"> ✂️ CarveKit ✂️  </p>
 
-<p align="center"> <img src="docs/imgs/logo.png"> </p>
-
-<p align="center">
-<img src="https://github.com/OPHoperHPO/image-background-remove-tool/actions/workflows/master_docker.yaml/badge.svg">
-<img src="https://github.com/OPHoperHPO/image-background-remove-tool/actions/workflows/master.yml/badge.svg">
-<a href="https://colab.research.google.com/github/OPHoperHPO/image-background-remove-tool/blob/master/docs/other/carvekit_try.ipynb">
-<img src="https://camo.githubusercontent.com/52feade06f2fecbf006889a904d221e6a730c194/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667"></a>
-
-</p>
 
 
 **********************************************************************
@@ -16,10 +6,6 @@
 
 
 > The higher resolution images from the picture above can be seen in the docs/imgs/compare/ and docs/imgs/input folders.
-
-#### 📙 README Language
-[Russian](docs/readme/ru.md)
-[English](README.md)
 
 ## 📄 Description:  
 Automated high-quality background removal framework for an image using neural networks.
@@ -243,4 +229,4 @@ See `docker-compose.<device>.yml` for more information. \
 ## 📧 __Feedback__
 I will be glad to receive feedback on the project and suggestions for integration.
 
-For all questions write: [farvard34@gmail.com](mailto://farvard34@gmail.com)
+For all questions write: [angelimark532@gmail.com]
